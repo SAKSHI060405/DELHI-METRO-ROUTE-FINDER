@@ -46,6 +46,12 @@ h1 {
     letter-spacing:1px;
 }
 
+p{
+    text-align:center;
+    color:white;
+    margin-top:10px;
+}
+
 .metro-card {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -60,7 +66,7 @@ h1 {
 label {
     margin-bottom: 8px;
     font-weight: bold;
-    color: black;
+    color: WHITE ;
 }
 
 select{
@@ -158,13 +164,8 @@ button:hover{
     justify-content:center;
     align-items:center;
     color:white;
-}
-
-.metro-lines{
-    display:flex;
-    justify-content:center;
-    gap:8px;
-    margin-bottom:25px;
+    font-size:24px;
+    margin-right:10px; 
 }
 
 @media(max-width:768px) {
