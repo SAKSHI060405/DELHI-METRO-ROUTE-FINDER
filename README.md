@@ -81,7 +81,7 @@ Through this project, I learned:
 
 ## 👩‍💻 Author
 
-**Juhee**
+**SAKSHI**
 
 B.Tech Computer Science Engineering Student
 
